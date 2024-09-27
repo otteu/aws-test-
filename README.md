@@ -14,9 +14,10 @@ nginx, react, spring boot, jdbc(jpa),db(mysql)
 
 ![aws-nginx](https://github.com/user-attachments/assets/40854ee8-4f3f-4bc2-9c7c-ec6bad2e920d)
 
-![aws-todo](https://github.com/user-attachments/assets/6914afee-552b-45cc-b3ae-39c1034fbcde)
+![product sample](https://github.com/user-attachments/assets/fd42c518-43a8-4dc7-bc8e-7554abec47de)
 
-![aws-product](https://github.com/user-attachments/assets/d6a24454-09a4-4723-9bcd-2ccce9cbec72)
+
+
 
 
 
